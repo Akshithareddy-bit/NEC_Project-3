@@ -9,7 +9,6 @@ This project helps manage patients, doctors, appointments, and electronic health
 👉 https://nec-project-3-m7ne.onrender.com
 
 ---
-
 ## 📷 Screenshots
 
 ### Dashboard 1
