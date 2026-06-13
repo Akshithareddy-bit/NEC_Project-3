@@ -8,14 +8,13 @@ This project helps manage patients, doctors, appointments, and electronic health
 ## 🚀 Live Demo
 👉 https://nec-project-3-m7ne.onrender.com
 
----
 ## 📷 Screenshots
 
 ### Dashboard 1
-![Dashboard 1](images/dashboard-1.png)
+![Dashboard 1](./images/dashboard-1.png)
 
 ### Dashboard 2
-![Dashboard 2](images/dashboard-2.png)
+![Dashboard 2](./images/dashboard-2.png)
 
 ### 👨‍⚕️ Doctor Management
 - Add doctors
