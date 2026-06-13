@@ -4,17 +4,17 @@ A Smart Hospital Management System built using **Python, Streamlit, and SQLite**
 This project helps manage patients, doctors, appointments, and electronic health records (EHR) in a simple and efficient way.
 
 ---
-
-## 🚀 Live Demo
-👉 https://nec-project-3-m7ne.onrender.com
-
-## 📷 Screenshots
+##  Screenshots
 
 ### Dashboard 1
 ![Dashboard 1](./images/dashboard-1.png)
 
 ### Dashboard 2
 ![Dashboard 2](./images/dashboard-2.png)
+
+## 🚀 Live Demo
+👉 https://nec-project-3-m7ne.onrender.com
+
 
 ### 👨‍⚕️ Doctor Management
 - Add doctors
